@@ -33,4 +33,5 @@ The dataset reveals that individuals with a family history of thyroid issues and
 Contributions to this project are welcome! If you have ideas for improvements or additional insights, please open an issue or a pull request. Your contributions will be greatly appreciated.
 ## 📬 Contact Information
 LinkedIn: kaushik-raghani
+
 Email: kaushikraghani23@gmail.com
